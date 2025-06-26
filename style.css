@@ -525,6 +525,8 @@ body{
     font-family: Montserrat;
 }
 #journey h1{
+   
+    margin-top: 2%;
     font-size: 33px;
     font-weight: 900;
 }
